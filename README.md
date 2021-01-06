@@ -1,5 +1,7 @@
 # Astroids
-Java implementation of the classic Asteroids game.
+Java implementation of the classic Asteroids game.  I think every student programmer has made their own version of Asteroids, and I couldn't resist.
+
+This is some of my oldest code, and is fraught with code stink.  Every time I look back at this code, I roll my eyes and have to resist the urge to smack myself for all the silly design mistakes, confusing code, and generally inefficient functions.  The code works, but reading it might cause your eyes to bleed.  You've been warned.
 
 The True Type Font included with this jar file, "Vectorb.ttf", was created by ck at ckrule@geocities.com.  Vectorb.ttf is licensed for non-commercial use, and the license is outline below:
 
